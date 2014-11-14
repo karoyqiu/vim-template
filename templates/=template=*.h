@@ -1,13 +1,22 @@
-/*
- * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
+/*! ***********************************************************************************************
  *
- * Distributed under terms of the %LICENSE% license.
- */
-
+ * \file        %FFILE%
+ * \brief       %HERE%
+ *
+ * \version     0.1
+ * \date        %DATE%
+ *
+ * \author      %USER% <%MAIL%>
+ * \copyright   © %YEAR% Centerm Information Co., Ltd.
+ *
+ **************************************************************************************************/
+#pragma once
 #ifndef %GUARD%
 #define %GUARD%
 
-%HERE%
 
-#endif /* !%GUARD% */
+
+
+
+#endif /* #ifndef %GUARD% */
+
